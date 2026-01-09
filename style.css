@@ -43,9 +43,13 @@ background: linear-gradient(to bottom, #8FD3A9, #4FA38D, #3C8C87);
     top: 40px;
    
     width: 450px;
+  
     height: 250px;
      border-radius: 10px;
      box-shadow: #8FD3A9 2px 2px 10px;
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
 }
 .part1{
     background-color: aliceblue;
@@ -203,3 +207,4 @@ right: 5px;
     text-align: center;
   }
 }
+
